@@ -21,7 +21,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Welcome to my portfolio! I'm Jaydip Dhapa, a passionate full
+            Welcome to my portfolio! I'm Jaydip Dhapa "Mern Stack", a passionate full
             stack web developer specializing in React and Node.js. With a
             fervent enthusiasm for problem-solving and an eye for UI/UX design,
             I am dedicated to crafting innovative solutions that elevate the
