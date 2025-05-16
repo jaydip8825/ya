@@ -21,7 +21,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Welcome to my portfolio! I'm Yashrajsinh Jadeja, a passionate full
+            Welcome to my portfolio! I'm Jaydip Dhapa, a passionate full
             stack web developer specializing in React and Node.js. With a
             fervent enthusiasm for problem-solving and an eye for UI/UX design,
             I am dedicated to crafting innovative solutions that elevate the
@@ -107,7 +107,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.2 * 1000}>
-          <img src={yashjadeja} alt="Yashrajsinh Jadeja" />
+          <img src={yashjadeja} alt="Jaydip Dhapa" />
         </ScrollAnimation>
       </div>
     </Container>

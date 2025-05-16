@@ -1,4 +1,4 @@
-# Portfolio of Yashrajsinh Jadeja
+# Portfolio of Jaydip Dhapa
  
 This project was created with CRA (Create React App)
 
