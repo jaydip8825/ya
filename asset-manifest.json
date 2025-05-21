@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ya/static/css/main.039bf95e.css",
-    "main.js": "/ya/static/js/main.95ebab92.js",
+    "main.js": "/ya/static/js/main.53466b66.js",
     "static/media/YashrajsinhJadejaResume.pdf": "/ya/static/media/YashrajsinhJadejaResume.0dd629ba99c26bfe2d16.pdf",
+    "static/media/mainimg.svg": "/ya/static/media/mainimg.e1451cd3a8c03d23d334d592a7bc6f1f.svg",
+    "static/media/yashjadejabg.png": "/ya/static/media/yashjadejabg.ef5ac1979801a99a6914.png",
     "static/media/Hello.gif": "/ya/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/yashjadejabg.png": "/ya/static/media/yashjadejabg.b202927b478bdf85a8ad.png",
-    "static/media/illustration.svg": "/ya/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/mysql-icon.svg": "/ya/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
     "static/media/mysql.svg": "/ya/static/media/mysql.3737d1ef555157e6069bbc4a693b96dc.svg",
     "static/media/node-icon.svg": "/ya/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
@@ -28,10 +28,10 @@
     "static/media/linkedin.svg": "/ya/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/ya/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "main.039bf95e.css.map": "/ya/static/css/main.039bf95e.css.map",
-    "main.95ebab92.js.map": "/ya/static/js/main.95ebab92.js.map"
+    "main.53466b66.js.map": "/ya/static/js/main.53466b66.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.95ebab92.js"
+    "static/js/main.53466b66.js"
   ]
 }
