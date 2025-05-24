@@ -22,10 +22,7 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
             Welcome to my portfolio! I'm Jaydip Dhapa "Full Stack", a passionate full
-            stack web developer specializing in React and Node.js. With a
-            fervent enthusiasm for problem-solving and an eye for UI/UX design,
-            I am dedicated to crafting innovative solutions that elevate the
-            digital experience.
+          
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -35,18 +32,14 @@ export function About() {
         >
           <p>
             In my journey as a developer, I embrace versatility and continuous
-            learning. From building dynamic web applications to optimizing
-            backend functionality, I thrive on tackling diverse challenges and
-            pushing the boundaries of technology.
+         
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
             Equipped with expertise in C, React, Node.js, MongoDB, MySQL, HTML,
             CSS, and more, I am committed to delivering solutions that not only
-            meet but exceed expectations. My passion for programming extends
-            beyond proficiency; it's a driving force that fuels my desire to
-            make a meaningful impact in the digital landscape.
+           
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
